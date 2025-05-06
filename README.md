@@ -4,4 +4,4 @@ Input: atmospheric data, gravity, radiation levels.
 
 Output: survivability scores, mutation risk, adaptation models.
 
-Tech stack: Python, SciPy, Matplotlib for visualization,
+Tech stack: Python, SciPy, Matplotlib for visualization.
